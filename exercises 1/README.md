@@ -1,5 +1,4 @@
-## EXERCISES 1
-
+## EXERCISES - part 1
 ----
 
 ### Zadanie 1
