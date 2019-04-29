@@ -1,7 +1,7 @@
 // ### Zadanie 2
 // Napisz funkcję ```addTheSameNumbers```, która ma przyjmować dwa argumenty &ndash; liczbę i tablicę. Funkcja ta ma zwracać sumę
 // wszystkich elementów tablicy, które są równe liczbie podanej jako pierwszmy argument funkcji. 
-// Jeżeli liczby, podanej jako pierwszy argument funkcji nie ma w tablicy, zwróć null.
+// Jeżeli liczby, podanej jako pierwszy argument funkcji nie ma w tablicy, zwróć null. 
 
 // ```JavaScript
 // addTheSameNumbers(7, [4, 7, 24, 7, 0, 10]) => 14
