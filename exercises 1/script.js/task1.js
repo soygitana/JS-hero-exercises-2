@@ -18,4 +18,4 @@ function getNumber(arr, element) {
     return false;
 }
 
-console.log(getNumber([2, 5, 9, 6], 5));
+console.log(getNumber([2, 5, 9, 6], 5)); 
