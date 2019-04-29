@@ -1,6 +1,7 @@
     
 // ### Zadanie 1
-// Napisz funkcję ```getNumber```, która ma przyjmować dwa argumenty &ndash; liczbę i tablicę. Funkcja ta ma zwracać wartość true lub false, w zależności od tego czy podana liczba znajduje się w tablicy czy nie.
+// Napisz funkcję ```getNumber```, która ma przyjmować dwa argumenty &ndash; liczbę i tablicę. 
+// Funkcja ta ma zwracać wartość true lub false, w zależności od tego czy podana liczba znajduje się w tablicy czy nie.
 
 // ```JavaScript
 // getNumber(2, [33, 54, 2, 1, 4, 100]) => true
