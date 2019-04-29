@@ -1,1 +1,1 @@
-### JS-HERO-exercises-2
+### JS HERO - exercises 2
