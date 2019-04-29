@@ -1,7 +1,7 @@
 // ### Zadanie 3
 // W pliku ```planets.js``` jest stworzona tablica obiektów ```planets```. Znajduje się w niej 8 planet Układu Słoneczngo 
 // wraz z informacjami ile posiadają księżyców. Napisz funkcję ```sortPlanet(planets)```, której zadaniem będzie 
-// **zwrócenie** nowej, posortowanej wg. ilości księżyców, tablicy. Czyli od Jowisza do Wenus.
+// **zwrócenie** nowej, posortowanej wg. ilości księżyców, tablicy. Czyli od Jowisza do Wenus. 
 
 
 var planets = [
