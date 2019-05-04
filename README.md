@@ -11,3 +11,13 @@
 * task 4 - function factors
 * task 5 - function getMissingElement
 * task 6 - function getLastNumbers
+
+
+#### 1. EXERCISES - part 2
+
+* task 1 - constructor function
+* task 2 - DOM search
+* task 3 - DOM search
+* task 4 - DOM search
+* task 5 - DOM search
+* task 6 - DOM search
