@@ -21,3 +21,8 @@
 * task 4 - DOM search
 * task 5 - DOM search
 * task 6 - DOM search
+
+
+#### 3. EXERCISES - part 3
+
+* task 1 - DOM events
