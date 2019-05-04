@@ -13,7 +13,7 @@
 * task 6 - function getLastNumbers
 
 
-#### 1. EXERCISES - part 2
+#### 2. EXERCISES - part 2
 
 * task 1 - constructor function
 * task 2 - DOM search
